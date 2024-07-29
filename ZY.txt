@@ -1,55 +1,43 @@
-{ "urls": [{ 
-"url": "clan://localhost/tvboxqq/饭太硬/api.json
+{ "urls": [{ "
+https://gitee.com/allinlove/tv/raw/master/fty/api.json
 ", "name": "饭太硬" },
 
 { "url": "
-clan://localhost/tvboxqq/小米/api.json
+https://gitee.com/allinlove/tv/raw/master/xm/api.json
 ", "name": "小米" },
 
 { "url": "
-clan://localhost/tvboxqq/肥猫/api.json
+https://gitee.com/allinlove/tv/raw/master/fm/api.json
 ", "name": "肥猫" },
 
 { "url": "
-clan://localhost/tvboxqq/王二小/api.json
+https://gitee.com/allinlove/tv/raw/master/wxe/api.json
 ", "name": "王二小" },
 
 { "url": "
-clan://localhost/tvboxqq/PG/api.json
+https://gitee.com/allinlove/tv/raw/master/pg/11i.json
 ", "name": "PG" },
 
 { "url": "
-clan://localhost/tvboxqq/香雅情/api.json
+https://gitee.com/allinlove/tv/raw/master/xyq/api.json
 ", "name": "香雅情" },
 
 { "url": "
-clan://localhost/tvboxqq/南风/api.json
+https://gitee.com/allinlove/tv/raw/master/nf/api.json
 ", "name": "南风" },
 
 { "url": "
-clan://localhost/tvboxqq/骚零/api.json
+https://gitee.com/allinlove/tv/raw/master/sl/api.json
 ", "name": "骚零" },
 
 { "url": "
-clan://localhost/tvboxqq/OK/api.json
+https://gitee.com/allinlove/tv/raw/master/ok/api.json
 ", "name": "OK" },
 
 { "url": "
-clan://localhost/tvboxqq/白嫖/api.json
+https://gitee.com/allinlove/tv/raw/master/baipiao/api.json
 ", "name": "白嫖" },
 
 { "url": "
-clan://localhost/tvboxqq/戏曲音乐/api.json
-", "name": "戏曲音乐" },
-
-{ "url": "
-clan://localhost/tvboxqq/短剧频道/api.json
-", "name": "短剧频道" },
-
-{ "url": "
-clan://localhost/tvboxqq/少儿频道/api.json
-", "name": "少儿频道" },
-
-{ "url": "
-clan://localhost/tvboxqq/动漫频道/api.json
-", "name": "动漫频道" }]}
+https://gitee.com/allinlove/tv/raw/master/duanju/01.json
+", "name": "短剧频道"  }]}
