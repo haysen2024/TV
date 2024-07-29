@@ -39,5 +39,10 @@ https://gitee.com/allinlove/tv/raw/master/baipiao/api.json
 ", "name": "白嫖" },
 
 { "url": "
+https://gitee.com/allinlove/tv/raw/master/DZ/dz.json
+", "name": "道长" },
+
+
+{ "url": "
 https://gitee.com/allinlove/tv/raw/master/duanju/01.json
 ", "name": "短剧频道"  }]}
