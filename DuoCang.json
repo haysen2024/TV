@@ -1,9 +1,5 @@
 {
   "storeHouse": [
- {
-      "sourceName": "☁️自建仓库",
-      "sourceUrl": "https://gitee.com/allinlove/DanCang/raw/master/SR.json"
-    },
     {
       "sourceName": "☁️云星在线仓库",
       "sourceUrl": "http://itvbox.cc/可视仓库/在线仓"
