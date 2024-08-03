@@ -1,5 +1,8 @@
 {
   "storeHouse": [
+ {
+      "sourceName": "☁️自建仓库","sourceUrl": "https://gitee.com/allinlove/DanCang/raw/master/SR.json"
+    },
     {
       "sourceName": "☁️云星在线仓库",
       "sourceUrl": "http://itvbox.cc/可视仓库/在线仓"
@@ -7,6 +10,7 @@
     {
       "sourceName": "☁️神州在线仓库",
       "sourceUrl": "http://itvbox.cc/可视仓库/神州在线仓"
+    },
 {
 "sourceName":"💚多多优选仓🍭软件接口🍭",
 "sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/a.txt?ref=main"
