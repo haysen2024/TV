@@ -4,6 +4,8 @@
 
 { "url": "https://gitee.com/allinlove/tv/raw/master/DuoCang/Cang%E2%91%A0/fm/api.json", "name": "肥猫" },
 
+{ "url": "https://gitee.com/allinlove/tv/raw/master/DuoCang/Cang%E2%91%A0/yuncang/yc.json", "name": "云仓" },
+
 { "url": "https://gitee.com/allinlove/tv/raw/master/DuoCang/Cang%E2%91%A0/wangerxiao/api.json", "name": "王二小" },
 
 { "url": "https://gitee.com/allinlove/tv/raw/master/DuoCang/Cang%E2%91%A0/moyuer/api.json", "name": "摸鱼儿" },
