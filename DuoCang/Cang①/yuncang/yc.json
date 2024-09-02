@@ -416,14 +416,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "wxb",
-      "name": "🥊搏击┃拳击",
-      "type": 3,
-      "playerType": " 1",
-      "api": "./lib/quanji1.js",
-      "ext": "./lib/quanji2.js"
-    },
+   
     {
       "key": "csp_Kuaikan",
       "name": "👀┃快看┃影视",
