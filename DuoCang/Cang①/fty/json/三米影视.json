@@ -1,0 +1,18 @@
+{
+  "站名": "木耳",
+  "头部集合": "User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1#authority$heimuer.tv#referer$https://heimuer.tv/",
+  "分类": "动漫&综艺&纪录片&经典影视&动作片&科幻片&战争片&恐怖片&喜剧片&爱情片&剧情片&国产剧&港台剧&日韩剧&海外剧",
+  "分类值": "dongmna&zongyi&jilupian&jdys&dzp&khp&zzp&kbp&xjp&aqp&jqp&gcj&gtj&rhj&hwj",
+  "分类url": "https://www.smxyr.com/smphb/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+"简介":"简介：&&</p>", 
+"链接": "href=\"&&\"", 
+"线路二次截取":"排序&&</div>",
+    "线路数组":"<li>&&</li>",
+    "线路标题":"舍得快乐🔥+>&&</a>",
+    "播放标题":">&&</a>",
+    "播放列表":"<li&&</li>",
+    "播放链接":"href=\"&&\"",
+"搜索url": "https://www.smxyr.com/smcz{wd}/page/{catePg}.html",
+   "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://heimuer.tv/#Cookie$PHPSESSID=t9a0fl2ngh4t175j3995v2669d",
+  "嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com"
+         }
