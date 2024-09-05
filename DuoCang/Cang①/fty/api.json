@@ -18,7 +18,7 @@
             "name": "瓜子秒播3K",
             "api": "csp_Gz360",
             "type": 3,
-          "./ouyang1.txt;md5;f0fe66c0299c3e68a450add5945adad1"
+            "jar": "./ouyang1.txt;md5;f0fe66c0299c3e68a450add5945adad1"
         },
             "searchable": 1,
             "playerType": 2,
