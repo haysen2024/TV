@@ -14,6 +14,16 @@
             "filterable": 0
         },
         {
+            "key": "精选瓜子",
+            "name": "瓜子秒播3K",
+            "api": "csp_Gz360",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0
+         },
+        {
             "key": "玩偶",
             "name": "👽玩偶哥哥┃4K弹幕",
             "type": 3,
