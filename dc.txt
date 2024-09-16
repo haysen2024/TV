@@ -1,0 +1,27 @@
+{ "urls": [{ "url": "https://gitee.com/madryn-005/tv/raw/master/DuoCang/ynzj/fty/api.json", "name": "饭太硬" },
+
+{ "url": "https://gitee.com/madryn-005/tv/raw/master/DuoCang/ynzj/XM/api.json", "name": "小米" },
+
+{ "url": "https://gitee.com/madryn-005/tv/raw/master/DuoCang/ynzj/fm/api.json", "name": "肥猫" },
+
+{ "url": "https://gitee.com/madryn-005/tv/raw/master/DuoCang/ynzj/yuncang/yc.json", "name": "云仓" },
+
+{ "url": "https://gitee.com/madryn-005/tv/raw/master/DuoCang/ynzj/wangerxiao/api.json", "name": "王二小" },
+
+{ "url": "https://gitee.com/madryn-005/tv/raw/master/DuoCang/ynzj/moyuer/api.json", "name": "摸鱼儿" },
+
+{ "url": "https://gitee.com/madryn-005/tv/raw/master/DuoCang/ynzj/xs/xsi.json", "name": "潇洒" },
+
+{ "url": "https://gitee.com/madryn-005/tv/raw/master/DuoCang/ynzj/ttkx/tti.json", "name": "天天开心" },
+
+{ "url": "https://gitee.com/madryn-005/tv/raw/master/DuoCang/ynzj/xyq/xyqi.json", "name": "香雅情" },
+
+{ "url": "https://gitee.com/madryn-005/tv/raw/master/DuoCang/ynzj/nanfeng/nan.json", "name": "南风" },
+
+{ "url": "https://gitee.com/madryn-005/tv/raw/master/DuoCang/ynzj/saoling/api.json", "name": "骚零" },
+
+{ "url": "https://gitee.com/madryn-005/tv/raw/master/DuoCang/ynzj/ok/api.json", "name": "OK" },
+
+{ "url": "https://gitee.com/madryn-005/tv/raw/master/DuoCang/ynzj/duanju/duan.son", "name": "短剧频道" },
+
+{ "url": "https://gitee.com/madryn-005/tv/raw/master/DuoCang/ynzj/dongman/api.json", "name": "动漫频道" }]}
