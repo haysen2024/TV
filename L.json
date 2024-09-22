@@ -1,0 +1,24 @@
+{
+  "urls": [
+      {
+      "url": "https://www.notabug.org/ynhk/ynhk/raw/master/ynhk1.json",
+      "name": "自用精简"
+    },
+    {
+      "url": "https://www.notabug.org/ynhk/ynhk/raw/master/cjsVIP.json",
+      "name": "🚀cjsVIP"
+    },
+    {
+      "url": "https://www.notabug.org/ynhk/ynhk/raw/master/jsxbpq.json",
+      "name": "🚀jsxbpq"
+    },
+    {
+      "url": "https://objectstorageapi.cloud.sealos.io/x76mijze-ynhk1/ynhk/cjsVIP/cjsVIP.json",
+      "name": "备用线路"
+    },
+    {
+      "url": "https://objectstorageapi.cloud.sealos.io/x76mijze-ynhk1/ynhk/jsxbpq/jsxbpq.json",
+      "name": "备用线路2"
+    }
+  ]
+}
