@@ -1,7 +1,10 @@
 {
   "storeHouse": [
  {
-      "sourceName": "☁️自建仓库","sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/index.txt"
+      "sourceName": "☁️仓库1","sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/index.txt"
+    }, 
+   {
+      "sourceName": "☁️仓库2","sourceUrl": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/SR/refs/heads/main/index.txt"
     }, 
     {
       "sourceName": "☁️在线仓库",
