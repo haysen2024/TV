@@ -1,27 +1,27 @@
-{ "urls": [{ "url": "https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/fty/api.json", "name": "饭太硬" },
+{ "urls": [{ "url": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/fty/api.json", "name": "饭太硬" },
 
-{ "url": "https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/XM/api.json", "name": "小米" },
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/XM/api.json", "name": "小米" },
 
-{ "url": "https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/fm/api.json", "name": "肥猫" },
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/fm/api.json", "name": "肥猫" },
 
-{ "url": "https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/yuncang/yc.json", "name": "云仓" },
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/yuncang/yc.json", "name": "云仓" },
 
-{ "url": "https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/wangerxiao/api.json", "name": "王二小" },
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/wangerxiao/api.json", "name": "王二小" },
 
-{ "url": "https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/moyuer/api.json", "name": "摸鱼儿" },
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/moyuer/api.json", "name": "摸鱼儿" },
 
-{ "url": "https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/xs/xsi.json", "name": "潇洒" },
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/xs/xsi.json", "name": "潇洒" },
 
-{ "url": "https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/ttkx/tti.json", "name": "天天开心" },
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/ttkx/tti.json", "name": "天天开心" },
 
-{ "url": "https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/xyq/xyqi.json", "name": "香雅情" },
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/xyq/xyqi.json", "name": "香雅情" },
 
-{ "url": "https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/nanfeng/nan.json", "name": "南风" },
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/nanfeng/nan.json", "name": "南风" },
 
-{ "url": "https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/saoling/api.json", "name": "骚零" },
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/saoling/api.json", "name": "骚零" },
 
-{ "url": "https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/ok/api.json", "name": "OK" },
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/ok/api.json", "name": "OK" },
 
-{ "url": "https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/duanju/duan.son", "name": "短剧频道" },
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/duanju/duan.son", "name": "短剧频道" },
 
-{ "url": "https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/dongman/api.json", "name": "动漫频道" }]}
+{ "url": "https://ghp.ci/https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/dongman/api.json", "name": "动漫频道" }]}
