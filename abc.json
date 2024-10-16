@@ -1,16 +1,7 @@
 {
   "storeHouse": [
  {
-      "sourceName": "☁️自建仓库1","sourceUrl": "https://gitee.com/allinlove/DanCang/raw/master/SR.json"
-    }, 
-    {
-      "sourceName": "☁️自建仓库2","sourceUrl": "https://gitee.com/allinlove/CangKu/raw/master/SR.json"
-    },
- {
-      "sourceName": "☁️自建仓库3","sourceUrl": "https://gitee.com/allinlove/tv/raw/master/DuoCang/Cang%E2%91%A0/index.txt"
-    }, 
-     {
-      "sourceName": "☁️自建仓库4","sourceUrl": "https://5027.kstore.space/tvbox/duo.json"
+      "sourceName": "☁️自建仓库","sourceUrl": "https://raw.githubusercontent.com/haysen2024/TV/refs/heads/master/DuoCang/ynzj/index.txt"
     }, 
     {
       "sourceName": "☁️在线仓库",
